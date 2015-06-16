@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for your interest in contributing to Node.js, there are multiple ways
+Thanks for your interest in contributing to Node.js, there are multiple ways
 and places you can contribute and we're here to help facilitate that.
 
 ## Reporting an Issue
